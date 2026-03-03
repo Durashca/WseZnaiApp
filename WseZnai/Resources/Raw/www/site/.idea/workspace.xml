@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd70d91-72ba-45ef-a1c6-aaf5d45f8fba" name="Изменения" comment="" />
+    <list default="true" id="1dd70d91-72ba-45ef-a1c6-aaf5d45f8fba" name="Изменения" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../App.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AppShell.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AppShell.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WseZnai.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WseZnai.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
   <component name="GradleModuleStateConfig" initialized="true" />
   <component name="OpenIdeProjectLocalState">
     <option name="firstOpen" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3ARfenwEU0z0KwzGilWCO1EpUlF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +31,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
